@@ -4,5 +4,14 @@ class one{
         int b=20;
         int c=a+b;
         System.out.println("the sum of a and b is "+c);
+        one obj=new one();
+        obj.Sum(a, b);
+
+    }
+
+
+    void Sum(int a,int b){
+        int c=a+b;
+        System.out.println("the sum of a and b is "+c);
     }
 }
