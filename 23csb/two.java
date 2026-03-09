@@ -26,4 +26,8 @@ void Sub(int a,int b) {
   //asdada9gdbadan
   asssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
   kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkKKKKKKKKKKKKKKKKKKKKKKKKKKKkkkkkkkkkkkkkkkkkkkKKKKKKKKKKKKKKKKKKKKKKKKK
+          a
+    sadasd
+                  adma,dla,sl,as
+    dmasmdkasmld,adamdkas
 }
