@@ -8,4 +8,7 @@ class one{
         obj.Sum(a, b);
 
     }
+
+    String name="Manikandan";
+    int age=20;
 }
